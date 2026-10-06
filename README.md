@@ -2,3 +2,6 @@
 
 ![Image alt](https://github.com/{insoulkiraa}/{pictures}/{main}/СНИМОК.png)
 
+![Иллюстрация к проекту](/image.png)
+
+
