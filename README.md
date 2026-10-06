@@ -4,5 +4,5 @@
 
 ![Иллюстрация к проекту](/image.png)
 
-<img src="pictures/image.PNG" alt="Image alt" width="500">
+<img src="image.PNG" alt="Image alt" width="500">
 
